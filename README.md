@@ -12,4 +12,4 @@
 
 # Concepts:
 
-**Interactive CLI, text input, single selection, multiple selection, confirmation prompts, string joining.**
+**Interactive CLI, text input, single selection, multiple selection (checkbox), confirmation prompts, string joining.**
