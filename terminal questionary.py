@@ -19,3 +19,7 @@ confirmed = questionary.confirm("Submit?").ask()
 if confirmed:   # that returns True if you type Yes and False if you type No
     
     print(f"Thanks {name}! You want a {framework} video covering {', '.join(topics)} !")
+    
+    
+# NOTE: "separator".join(iterable) combines the elements of an iterable into one string, using the separator between each element.
+# this print(', '.join(topics)) prints for example: Deployment, Database, REST APIs  
